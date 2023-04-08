@@ -1,0 +1,4 @@
+limits-service:
+    from: QA
+    maximum: 29
+    minimum: 20

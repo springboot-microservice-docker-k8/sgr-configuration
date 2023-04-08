@@ -1,0 +1,4 @@
+limits-service:
+    from: DEV
+    maximum: 19
+    minimum: 10

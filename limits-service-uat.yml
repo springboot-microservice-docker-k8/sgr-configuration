@@ -1,0 +1,4 @@
+limit-service:
+    from: UAT
+    maximum: 39
+    minimum: 30

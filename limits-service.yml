@@ -1,0 +1,4 @@
+limits-service:
+    from: DEFAULT
+    maximum: 9
+    minimum: 0
