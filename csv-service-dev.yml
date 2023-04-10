@@ -1,0 +1,4 @@
+csv-service:
+    from: DEV
+    maximum: 20
+    minimum: 11
